@@ -343,7 +343,7 @@ header .navegacao-primaria.ativado{
     justify-content: center;
 }
 
-.meus_projetos ul li{
+.meus_projetos ul li a{
     cursor: pointer;
     border-radius: 6px;
     position: relative;
