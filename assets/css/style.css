@@ -260,13 +260,15 @@ main .sobre {
 @media(max-width: 992px){
 
 header{
-   padding: 30px 57px;
-   padding-left: 18px;
+   padding: 20px;
 }
 
 header nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-left: 0px;
-    margin-right: 26px;
+    margin-right: 7px;
 }
 
 .section-div img{
